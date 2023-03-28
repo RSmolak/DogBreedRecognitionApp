@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+aiofiles
+seaborn
+pandas
+opencv-python-headless
+requests
+torch
+torchvision
